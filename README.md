@@ -1,7 +1,7 @@
 ### Olá sou Otávio Augusto
 
--Desenvolvedor Front-end </br>
-
+-Desenvolvedor Front-end. </br>
+-Criador de conteúdo de tecnologia.</br>
 
 
 <div>
