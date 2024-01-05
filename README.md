@@ -1,7 +1,6 @@
 ### Olá sou Otávio Augusto
 
--Desenvolvedor Front-end. </br>
--Criador de conteúdo de tecnologia.</br>
+-Assistente de Controles Internos e Processos na Sicoob Credicocapec</br>
 
 
 <div>
